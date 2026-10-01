@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ArrowLeft, ArrowRight, Download, Linkedin, Mail, Menu, X } from "lucide-react";
+import { ArrowLeft, ArrowRight, Download, Mail, Menu, X } from "lucide-react";
 
 const impact = [
   ["$13.1M", "Annualized benefits"],
